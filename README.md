@@ -4,15 +4,6 @@ A modern, highly responsive Twitter (X) frontend clone built using **Tailwind CS
 
 ---
 
-## 🚀 Live Demo & Preview
-
-This project features:
-- **Premium Dark Mode Aesthetic:** Deep black background (`bg-black`) with crisp white elements and elegant slate/gray borders.
-- **Glassmorphism & Blurs:** High-fidelity sticky header (`backdrop-blur-3xl`) for the feed selection.
-- **Interactive Micro-animations:** Hover transitions on navigation items, buttons, and action icons.
-
----
-
 ## ✨ Features
 
 ### 1. Left Sidebar Navigation (Sticky)
@@ -61,35 +52,7 @@ tiwwter clone/
 
 ---
 
-## ⚙️ Getting Started & Setup
 
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd "tiwwter clone"
-   ```
-
-2. **Install the dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-
-4. **Build the Tailwind CSS styling (compiled output):**
-   ```bash
-   npm run build
-   ```
-
----
 
 ## 🎨 Responsive Breakpoints
 
@@ -99,5 +62,4 @@ The layout adapts fluidly using Tailwind CSS's breakpoints (`sm`, `md`, `lg`, `x
 
 ---
 
-## 📄 License
-This project is licensed under the ISC License.
+## 🚀 Live link of website :- https://twitter-clone-sigma-black.vercel.app/
