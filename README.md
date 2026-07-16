@@ -1,10 +1,10 @@
-# Twitter Clone 🐦
+# Twitter Clone 
 
 A modern, highly responsive Twitter (X) frontend clone built using **Tailwind CSS v4**, **Vite**, and **Semantic HTML5**. This project features a multi-column layout mirroring the real X/Twitter web app, complete with responsive sidebars, trending sections, interactive feed components, and high-fidelity custom design systems.
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 1. Left Sidebar Navigation (Sticky)
 - High-fidelity replica of the X sidebar featuring standard tabs: **Home, Notifications, Follow, Chat, Grok, Bookmarks, Creator Studio, Premium, Profile, and More**.
@@ -54,7 +54,7 @@ tiwwter clone/
 
 
 
-## 🎨 Responsive Breakpoints
+##  Responsive Breakpoints
 
 The layout adapts fluidly using Tailwind CSS's breakpoints (`sm`, `md`, `lg`, `xl`, `2xl`):
 - **Desktop:** Full three-column layout (Sidebar navigation, main feed, right trending panel).
@@ -62,4 +62,4 @@ The layout adapts fluidly using Tailwind CSS's breakpoints (`sm`, `md`, `lg`, `x
 
 ---
 
-## 🚀 Live link of website :- https://twitter-clone-sigma-black.vercel.app/
+##  Live link of website :- https://twitter-clone-sigma-black.vercel.app/
